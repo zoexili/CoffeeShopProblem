@@ -1,3 +1,10 @@
+########################################
+Li Xi
+lxi@bu.edu
+CS 330 Algorithms
+########################################
+
+
 import sys
 import numpy as np
 import os
